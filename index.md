@@ -11,4 +11,5 @@ My hobbies are:
 - Travelling
 
 [Visit my website](https://fc2078.github.io)
+
 [Visit my favorite project](https://fc2078.github.io/rizz-farm)
