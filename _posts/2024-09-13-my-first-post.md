@@ -1,5 +1,7 @@
 # Gen Z Humor + Coding = The Epic Clicker Game
 
+<img src="../images/website.png">
+
 ## What kind of an idea is this?
 
 You might be wondering, why is there “rizz”, “sigma”, “baby gronk”. I’ve been through a lot, from those types of “brain rot” to dealing with technology. One day, though, I learned JavaScript and how to integrate it into a website to build what is known as a “clicker game”, which was the final project for my junior year. 
@@ -16,6 +18,8 @@ People will laugh and go crazy, and if they want to theoretically have more “r
 
 ## Why and How I've done it
 
+<img src="../images/rizzUpgrade.png">
+
 It’s 2024, and we have come a long way. Gen Z humor took the internet by storm, and it has got up to almost everyone. A large chunk of the population has yet to experience it, but may not for their own good. 
 
 I was among those exposed to what was referred to as “brain rot”, because of their potentially detrimental effects to one’s brain and thinking. However, utilizing it the right way will definitely help one. 
@@ -25,6 +29,8 @@ I was pursuing a technical endorsement at the Brooklyn STEAM Center, and my path
 We learned the front and back ends of web and application development, working together, and managing workflows. As our final project for the junior year, we were assigned to create a clicker game heavily utilizing JavaScript, and using HTML and CSS to hold and design.
 
 I had to come up with a good idea. Not too generic, while not too inappropriate. I used the idea of “rizz” and being a “sigma” for my game. It sounded seriously hilarious, but wait for the end results. Despite the unusuality of this idea, I have proceeded with it.
+
+### Working at it
 
 First thing to do was to set up the structure and design of my website before writing the meaty functions. Using the CSS box model, it saved me tons of time, and helped me easily lay out my site. 
 
@@ -36,13 +42,21 @@ Even though I’ve run into some frustrating problems, I never gave up, or simpl
 
 First, we start off with the backbone of the game, the clicker. We wrote out the math needed for it to work. Then, we moved on to the upgrades section, learning to code it correctly
 
-I had a fun time with coding out the game, even though it got redundant with having to copy and paste code in order to run the same thing for each upgrade. 
+I had a fun time with coding out the game, even though it got redundant with having to copy and paste code in order to run the same thing for each upgrade.
+
+<img src="../images/upgradeFunction.png">
+
+### Reviews and Revamps
 
 My code was sophisticated and organized by their functions, and they were even separated by comments for readability.
 
 I’ve decided to add some fun twists by adding a mystery upgrade, a few stats for the user, and a hidden prize at a certain rizz count. 
 
 In order to do that, and forgive me, I used a little bit of AI and research to enhance my game and took inspiration from partners to make the magic happen.
+
+<img src="../images/questionmark.png" width="250">
+
+## The Results?
 
 After finally finishing the game, I have had no hesitation with submitting the link to it. The end of the year was nearing, and I was about to become a senior. I’ve prayed my idea was a good one and I’ve done well.
 
@@ -51,3 +65,5 @@ And to my surprise, or to anyone else’s surprise, I got a full grade: 100%. It
 It shocked my friends because of the silly idea. But, now I’ve learned, it was my method of building the game, not the ideology it stems from.
 
 That wasn’t it, though. Later I’ve decided I should add more updates, such as more iconic figures like Young Sheldon and Andrew Tate. Maybe I’d consider dropping an aura update as well. Long story short, I was proud of what I’ve done and how I’ve done it.
+
+<img src="../images/grade.png">
