@@ -54,7 +54,7 @@ I’ve decided to add some fun twists by adding a mystery upgrade, a few stats f
 
 In order to do that, and forgive me, I used a little bit of AI and research to enhance my game and took inspiration from partners to make the magic happen.
 
-<img src="/blog/images/questionmark.png" width="1250" alt="Questionable upgrade">
+<img src="/blog/images/questionmark.png" width="250" alt="Questionable upgrade">
 
 ## The Results?
 
