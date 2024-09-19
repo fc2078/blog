@@ -1,6 +1,6 @@
 # Gen Z Humor + Coding = The Epic Clicker Game
 
-<img src="../images/website.png" alt="The website for the game">
+<img src="/blog/images/website.png" alt="The website for the game">
 
 ## What kind of an idea is this?
 
@@ -18,7 +18,7 @@ People will laugh and go crazy, and if they want to theoretically have more “r
 
 ## Why and How I've done it
 
-<img src="../images/rizzUpgrade.png" alt="Rizz upgrade setup">
+<img src="/blog/images/rizzUpgrade.png" alt="Rizz upgrade setup">
 
 It’s 2024, and we have come a long way. Gen Z humor took the internet by storm, and it has got up to almost everyone. A large chunk of the population has yet to experience it, but may not for their own good. 
 
@@ -44,7 +44,7 @@ First, we start off with the backbone of the game, the clicker. We wrote out the
 
 I had a fun time with coding out the game, even though it got redundant with having to copy and paste code in order to run the same thing for each upgrade.
 
-<img src="../images/upgradeFunction.png" alt="Coding the upgrades">
+<img src="/blog/images/upgradeFunction.png" alt="Coding the upgrades">
 
 ### Reviews and Revamps
 
@@ -54,7 +54,7 @@ I’ve decided to add some fun twists by adding a mystery upgrade, a few stats f
 
 In order to do that, and forgive me, I used a little bit of AI and research to enhance my game and took inspiration from partners to make the magic happen.
 
-<img src="../images/questionmark.png" width="250" alt="Questionable upgrade">
+<img src="/blog/images/questionmark.png" width="250" alt="Questionable upgrade">
 
 ## The Results?
 
@@ -66,4 +66,4 @@ It shocked my friends because of the silly idea. But, now I’ve learned, it was
 
 That wasn’t it, though. Later I’ve decided I should add more updates, such as more iconic figures like Young Sheldon and Andrew Tate. Maybe I’d consider dropping an aura update as well. Long story short, I was proud of what I’ve done and how I’ve done it.
 
-<img src="../images/grade.png" alt="My grade">
+<img src="/blog/images/grade.png" alt="My grade">
