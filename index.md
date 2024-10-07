@@ -18,4 +18,6 @@ My hobbies are:
 
 [Visit my favorite project](https://fc2078.github.io/rizz-farm)
 
-[Visit my blog](_posts/2024-09-13-my-first-post.md)
+[Blog Post 1](_posts/2024-09-13-my-first-post.md)
+
+[Blog Post 2](_posts/2024-10-01-debugging.md)
