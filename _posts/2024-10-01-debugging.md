@@ -11,16 +11,44 @@ The engineers have settled on calling this error a "bug" after literally finding
 ## My Debugging Experience
 My class took a break for a day on writing new code, and our instructor taught us to "debug" code. We were to **look for errors** in given code snippets, **correct** them, and **explain** the process. And it was more than the code itself.
 
-In Visual Studio Code, a `"Run and Debug"` feature has been added to the editor. This feature allows for **running a file and squashing bugs** out of the way. I never really knew this would've come in handy. But it truly did, and that's what we used for the day's lesson.
+![Correcting this code to limit attempts to 3](/images/limitAttempt.png "You don't get much tries on this one.")
 
+![The call stack returning the error](/images/callStack.png "Whoops I've made a spelling error with a variable!")
+
+In Visual Studio Code, a `"Run and Debug"` feature has been added to the editor. This feature allows for **running a file and squashing bugs** out of the way. I never really knew this would've come in handy. But it truly did, and that's what we used for the day's lesson.
 
 ### The Debugging Process
 
-We were given some code snippets in a Google doc. We were to paste each of them one at a time into the ediotr, and then run the debugger. We learned about **breakpoints**, which is a set point that the debugger will stop at. Since we were coding in `Python`, we used the `Python debugger` in particular for this assignment.
+We were given some code snippets in a Google doc. We were to paste each of them one at a time into the editor, and then run the debugger. We learned about **breakpoints**, which is a set point that the debugger will stop at. Since we were coding in `Python`, we used the `Python debugger` in particular for this assignment.
+
+![Local variables and the debugger](/images/varsDebug.png "See what you can do with the debugger.")
 
 `Python Debugger: Debug Python File` was our run option. We would run that and see all the variables tha have been ran on the side bar. We would understand the results after a certain number of iterations and what happens if we changed them.
 
 We would also find more detailed error messages for things that didn't run correctly. Though we didn't understand the exact jargon, we were able to figure out what went wrong. Then we would easily get rid of that pesky bug. The debugger is an easy way for good riddance.
+
+### Debugging Task 1: Counting spaces in string
+
+Starting with the first one, we'd fix a strip where it counts the number of spaces in a given string.
+
+**Issue**: ```The output is the integer of what the count variable is set to. It is not outputting how many spaces are in the string because “if char” is equal to nothing.```
+
+**Solution**: ```Add a space in the if statement string to account for all the spaces in the string of the text variable.```
+
+![Task 1](/images/debugTask1.png "Something went wrong with counting here!")
+
+### Debugging Task 2: Checking the oddness of numbers 1 to *n* 
+
+
+![Task 2](/images/debugTask2.png "A wrong input type...")
+
+### Debugging Task 3: Calculating factorials
+
+![Task 3](/images/debugTask3.png "See what you can do with the debugger.")
+
+### Debugging Task 4: Counting spaces in string
+
+![Task 4](/images/debugTask4.png "See what you can do with the debugger.")
 
 ## Can you "Debug" you Life?
 
