@@ -1,6 +1,6 @@
 # Gen Z Humor + Coding = The Epic Clicker Game
 
-<img src="/blog/images/website.png" alt="The website for the game" width="1250">
+<img src="../images/2024-09-13/website.png" alt="The website for the game" width="1250">
 
 ## What kind of an idea is this?
 
@@ -18,7 +18,7 @@ People will laugh and go crazy, and if they want to theoretically have more “r
 
 ## Why and How I've done it
 
-<img src="/blog/images/rizzUpgrade.png" alt="Rizz upgrade setup" width="1250">
+<img src="../images/2024-09-13/rizzUpgrade.png" alt="Rizz upgrade setup" width="1250">
 
 It’s 2024, and we have come a long way. Gen Z humor took the internet by storm, and it has got up to almost everyone. A large chunk of the population has yet to experience it, but may not for their own good. 
 
@@ -44,7 +44,7 @@ First, we start off with the backbone of the game, the clicker. We wrote out the
 
 I had a fun time with coding out the game, even though it got redundant with having to copy and paste code in order to run the same thing for each upgrade.
 
-<img src="/blog/images/upgradeFunction.png" alt="Coding the upgrades" width="1250">
+<img src="../images/2024-09-13/upgradeFunction.png" alt="Coding the upgrades" width="1250">
 
 ### Reviews and Revamps
 
@@ -54,7 +54,7 @@ I’ve decided to add some fun twists by adding a mystery upgrade, a few stats f
 
 In order to do that, and forgive me, I used a little bit of AI and research to enhance my game and took inspiration from partners to make the magic happen.
 
-<img src="/blog/images/questionmark.png" width="250" alt="Questionable upgrade">
+<img src="../images/2024-09-13/questionmark.png" width="250" alt="Questionable upgrade">
 
 ## The Results?
 
@@ -62,7 +62,7 @@ After finally finishing the game, I have had no hesitation with submitting the l
 
 And to my surprise, or to anyone else’s surprise, I got a full grade: 100%. It was shocking because of my idea and design, but the design was user-friendly and the Javascript code was flawless and sophisticated.
 
-<img src="/blog/images/grade.png" alt="My grade">
+<img src="../images/2024-09-13/grade.png" alt="My grade">
 
 It shocked my friends because of the silly idea. But, now I’ve learned, it was my method of building the game, not the ideology it stems from.
 
