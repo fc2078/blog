@@ -1,6 +1,6 @@
 # Farhan Chowdury's Developer Blog
 
-<img src="images/presentPhoto.jpg" width="300">
+<img src="images/index/presentPhoto.jpg" width="300">
 
 <br>
 Welcome to my blog!
@@ -20,4 +20,4 @@ My hobbies are:
 
 [Blog Post 1](_posts/2024-09-13-my-first-post.md)
 
-[Blog Post 2](_posts/2024-10-01-debugging.md)
+[Blog Post 2](_posts/2024-10-29-debugging.md)
