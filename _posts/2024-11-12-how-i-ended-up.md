@@ -9,7 +9,7 @@ From the good ol' Windows 7 games that came along with the operating system to o
 ### Using the computer myself
 Since we had a **tower desktop**, there were two steps to starting up the computer. First, switch on the monitor. Next, bend down and press that bouncy button to start up the machine and hear those fans and drives run. Next, I sit through the `BIOS` and `Windows 7` startup screens. Then, I am welcomed and prompted to enter the password. Finally, I'm in the system and can do anything I want.
 
-I would go online and play games from my favorite TV channels. Sometimes I would go to Google and search some random funny stuff up. Other times I would play `Purpble Place`, which was one of the nostalgic games that came with Windows 7
+I would go online and play games from my favorite TV channels. Sometimes I would go to Google and search some random funny stuff up. Other times I would play `Purble Place`, which was one of the nostalgic games that came with Windows 7
 
 ### Watching and using TV
 
