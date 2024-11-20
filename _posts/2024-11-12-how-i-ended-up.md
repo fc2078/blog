@@ -2,7 +2,7 @@
 Welcome to a place where I have a story to tell. You'll definitely want to sit down if you've been acquianted with computer science and technology for quite a long time now, no matter how basic or advanced you know. It might be a common field of interest among people like me, but I'm glad that I have ended up here.
 
 ## Where did it all begin?
-I started playing some games on the new Dell desktop my dad brough in 2010. It was the first computer I have ever used in my life. He set up our usename and password to be a **comination of my name and my sister's.** He used the computer for important tasks, while me and my sister played some small games when we were allowed to.
+I started playing some games on the new Dell desktop my dad brough in 2010. It was the first computer I have ever used in my life. He set up our username and password to be a **comination of my name and my sister's.** He used the computer for important tasks, while me and my sister played some small games when we were allowed to.
 
 From the good ol' Windows 7 games that came along with the operating system to online `nick.jr` games, we really enjoyed the times. Sometimes my dad would save our old photos and videos on that computer and review them with the whole family. I saw how he was able to run programs on that desktop computer and learned many things from that.
 
@@ -26,10 +26,25 @@ I've also understood a little more about networks and ethernet ports, considerin
 
 ### The iPad
 
-It was 2015, and me and my sister were asking our parents to get us an iPad to play with and do more with it. After some technical difficulties in the start, we have progressed far with it. I've discovered so many mobile games and enjoyed them, and looked up so many things I could use.
+It was 2015, and me and my sister were asking our parents to get us an **iPad** to play with and do more with it. After some *technical difficulties* in the start, we have progressed far with it. I've discovered so many mobile games and enjoyed them, and looked up so many things I could use.
 
-That was the first time I've actually got my hands on a mobile device. Until then, all I would do was merely look around and see what my parents and others would do on them. 
+That was the *first* time I've actually got my hands on a mobile device. Until then, all I would do was merely look around and see what my parents and others would do on them. 
 
 ### Further Windows Antics
 
 I've enjoyed using more software on our computer, such as `Word 2009` (we have not updated since purchasing the computer), `Control Panel`, `Notepad`, and some other tools exclusive to Windows. From then I have become quite a professional at using that operating system and getting more acquianted with technology.
+
+I've started writing some fictional stories using `Word 2009` and saving them on my computer. My dad got me started with the basics and I was able to take over for the rest. I would open each document up and write the silliest or most attention-grabbing things.
+
+I've also started playing `Roblox` on my old PC in 2017. Moving on from the iPad, I was able to play more games that were exclusive to desktop. Though not suited for gaming, I was able to move through with some games since they didn't take up as much resources back then.
+
+Some games, such as `Prison Life`, were more playable on mobile due to more support for controls and keyboard hotkeys. That was what I enjoyed about playing on PC. I got more acquainted with PC gaming from there.
+
+## Middle School
+For a 6th grade assignment, we were required to write a paper about a subject. We could either hand-write it, or otherwise use a word processor and print it out. My teachers gave us instructions on saving files, and I was keen of following those instructions and getting it all typed out.
+
+I typed out the assignment accordingly, and with a thumb drive my cousin has bought for me, I saved the file to there and brought it over for printing. I've learned that there was a process for using portable drives such as that. You hit `Save` first, but before removing it from the computer, you open up the tray, right click on the drive, hit `Eject`, wait for the confirmation, then pull it out. That way you could ensure taht all data processing is over and the drive can be safely removing without data loss.
+
+In the summer of 2019, I joined a free program which involves STEM. There was more classes to enjoy than that, but there's many takeaways I can recall.
+
+## High School and Beyond
