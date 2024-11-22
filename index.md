@@ -21,3 +21,5 @@ My hobbies are:
 [Blog Post 1](_posts/2024-09-13-my-first-post.md)
 
 [Blog Post 2](_posts/2024-10-29-debugging.md)
+
+[Blog Post 3] coming soon!

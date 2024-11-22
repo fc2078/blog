@@ -45,6 +45,17 @@ For a 6th grade assignment, we were required to write a paper about a subject. W
 
 I typed out the assignment accordingly, and with a thumb drive my cousin has bought for me, I saved the file to there and brought it over for printing. I've learned that there was a process for using portable drives such as that. You hit `Save` first, but before removing it from the computer, you open up the tray, right click on the drive, hit `Eject`, wait for the confirmation, then pull it out. That way you could ensure taht all data processing is over and the drive can be safely removing without data loss.
 
-In the summer of 2019, I joined a free program which involves STEM. There was more classes to enjoy than that, but there's many takeaways I can recall.
+In the summer of 2019, I joined a free program which involves STEM. There were more classes that I've participated in than STEM, but there's many takeaways I can recall. Sometimes we would code with `Scratch` code blocks and sometimes played `Minecraft Education`. Other times we learned some things that work with computersr. On those chill, free days, we would play games on the glorious site of `CoolMathGames` and relax.
 
-## High School and Beyond
+### My first laptop and phone
+**December 2019:** My dad got me a new laptop as I started to grow more mature and start doing work more conveniently, considering that my old desktop is running slow since its hardware is becoming outdated. I started having fun with it.
+
+**February 2020:** Behold, my first phone! Acquiring the iPhone 8 Plus that I still keep to this day. This was (one of) the day(s) that I had become more independent than before. I can now do much more from about anywhere, and my parents won't have to worry about me or my sister if we're ever outside. A new piece of technology, right in my pocket!
+
+### The break of the Pandemic
+Then came the pandemic. We were home since March 2020, and since then, we were stuck with devices to learn and do other things with. I had my new laptop and iPad to work with and play games on. It sounded like fun at first, but as we were stuck with the same stuff over time, it grew boring.
+
+But then that's when I started to learn more about PC parts and how they work together. I started looking at PC builds and other related antics. I also tore down my old desktop to see what's inside, how to dissemble it, and how to resemble it. It wasn't all easy work, but it was in fact, manageable. I've also understood a little more on networking with a desktop.
+
+## How it all sums up
+(insert conclusion here)
