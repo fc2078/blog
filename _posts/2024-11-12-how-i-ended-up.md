@@ -57,6 +57,8 @@ Then came the pandemic. We were home since March 2020, and since then, we were s
 
 But then that's when I started to learn more about PC parts and how they work together. I started looking at PC builds and other related antics. I also tore down my old desktop to see what's inside, how to dissemble it, and how to resemble it. It wasn't all easy work, but it was in fact, manageable. I've also understood a little more on networking with a desktop.
 
+That's where I started to be more acquainted with hardware and become quite an "enthusiast" about. Even if my family was reluctant to buy such a jacked PC or won't cough up the money, I was still amazed by the functions and parts of them. I started to better understand problems from understanding hardware and software.
+
 ## How it all sums up
 Here I am now in high school, **pursuing technology, becoming a better user, and assisting others.** My interests might have taken me to places of hard work, but of the *good* kind. I've learning coding/programming and have ended up using technology daily for my school, work, and many other purposes.
 
