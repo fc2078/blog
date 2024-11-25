@@ -58,4 +58,8 @@ Then came the pandemic. We were home since March 2020, and since then, we were s
 But then that's when I started to learn more about PC parts and how they work together. I started looking at PC builds and other related antics. I also tore down my old desktop to see what's inside, how to dissemble it, and how to resemble it. It wasn't all easy work, but it was in fact, manageable. I've also understood a little more on networking with a desktop.
 
 ## How it all sums up
-(insert conclusion here)
+Here I am now in high school, **pursuing technology, becoming a better user, and assisting others.** My interests might have taken me to places of hard work, but of the *good* kind. I've learning coding/programming and have ended up using technology daily for my school, work, and many other purposes.
+
+I would be in a **dystopian world** of myself if I weren't to know this much about technology. Even though I could imagine how life would be if I didn't use as much technology, or not even be as acquianted, it's a life I **DO NOT** want to be in.
+
+Now I'm moving on to pursuing `Computer Science` in college soon and shall prepare for the real life experience of... life. Let me use everything I can from my `Fullstack Development` class to make changes and aid my education. And let me use my previous knowledge to move forward.
