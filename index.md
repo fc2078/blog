@@ -22,4 +22,4 @@ My hobbies are:
 
 [Blog Post 2](_posts/2024-10-29-debugging.md)
 
-[Blog Post 3] coming soon!
+[Blog Post 3](_posts/2024-11-30-debugging.md)
