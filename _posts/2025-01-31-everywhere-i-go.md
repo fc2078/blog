@@ -76,6 +76,6 @@ That time the new Madison concourse recently opened and full schedules weren't i
 ### Friday
 Finally, I decided to conclude the week with a special surprise: The ferry to Staten Island. I took it from South Ferry at the lowest tip of Manhattan. Then I took the railway after docking at St. George and went to Eltingville.
 
-However, as the commute itself took a long time, I didn't have much time to explore, so with the remaining time, I took a bus back into Brooklyn via the Verrazano Bridge and headed home from there.
+However, as the commute itself took a long time, I didn't have much time to explore, so with the remaining time, I took a bus back into Brooklyn via the Verrazano Bridge and right into Bay Ridge. Then I went to Bensonhurst, and then headed home from there.
 
 It was a wild experience, and it was fun. It goes to show how I can embrace what I know and can do to enjoy something, and learn a lot of things to.
