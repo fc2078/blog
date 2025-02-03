@@ -24,4 +24,4 @@ My hobbies are:
 
 [Blog Post 3](_posts/2024-11-30-how-i-ended-up.md)
 
-[Blog Post 4](_posts/2025-01-31-everywhere-i-go.md)]
+[Blog Post 4](_posts/2025-01-31-everywhere-i-go.md)
